@@ -3768,6 +3768,7 @@ libmongoclient-dev:
   rhel:
     '7': [mongo-cxx-driver-devel]
   ubuntu: [libmongoclient-dev]
+  nixos: [libmongo-client]
 libmotif-dev:
   arch: [lesstif]
   debian: [libmotif-dev]
